@@ -1,10 +1,37 @@
-# 🚕 🚕  Uber-NYC-analysis-2014
+# 🚕 🚕  Uber- New York 2014
 Python-based Business Analytics project on Uber ride patterns in NYC (Apr–Sep 2014). Includes a July 2014 comparison vs traditional FHV cabs.
 
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Uber_logo_2018.png" alt="Uber" width="200"/>
 </p>
+
+
+## 📚 Table of Contents
+
+- [🚕 About Uber](#-about-uber)
+- [🚖 Uber NYC Trip Analysis & FHV Comparison (2014)](#-uber-nyc-trip-analysis--fhv-comparison-2014)
+- [📊 Project Overview](#-project-overview)
+- [🧹 Data Cleaning](#-data-cleaning)
+- [🗽 Uber NYC Analysis (Apr–Sept 2014)](#-uber-nyc-analysis-aprseptember-2014)
+- [🔍 Comparative Analysis: Uber vs Traditional FHV (July 2014)](#-comparative-analysis-uber-vs-traditional-fhv-july-2014)
+- [📝 Conclusion](#-conclusion)
+- [🌍 Visualizations](#-visualizations)
+- [📸 Snapshots](#-snapshots)
+- [📂 Files](#-files)
+- [🛠 Technologies Used](#-technologies-used)
+- [💡 Business Analytics Skills Demonstrated](#-business-analytics-skills-demonstrated)
+- [🚀 Run Locally](#-run-locally)
+- [🙌 Acknowledgements](#-acknowledgements)
+- [📬 Contact](#-contact)
+
+---
+
+## 🚕 About Uber
+
+[Uber](https://www.uber.com) is a global ride-hailing platform that revolutionized urban transportation through its app-based model. Launched in 2009, Uber quickly gained popularity by offering convenient, on-demand rides and redefining personal mobility. New York City became one of Uber’s early major markets, setting the stage for significant shifts in the taxi and for-hire vehicle industry.
+
+---
 
 ## 🚖 Uber NYC Trip Analysis & FHV Comparison (2014)
 
@@ -14,13 +41,7 @@ This project presents a detailed **exploratory and comparative analysis** of Ube
 ✔ Hourly and weekly behaviors  
 ✔ Market share Uber vs traditional For-Hire Vehicles (FHV)  
 
----
 
-## 🚕 About Uber
-
-[Uber](https://www.uber.com) is a global ride-hailing platform that revolutionized urban transportation through its app-based model. Launched in 2009, Uber quickly gained popularity by offering convenient, on-demand rides and redefining personal mobility. New York City became one of Uber’s early major markets, setting the stage for significant shifts in the taxi and for-hire vehicle industry.
-
----
 
 ## 📊 Project Overview
 
