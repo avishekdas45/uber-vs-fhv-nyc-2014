@@ -107,7 +107,7 @@ Traditional FHV providers should:
 
 ## 🌍 Visualizations
 
-Visuals created using `Matplotlib`, `Seaborn`, and `WordCloud` include:
+Visuals created using `Matplotlib`, `Seaborn` include:
 
 - Bar Charts.
 - Heatmaps.
